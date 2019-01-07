@@ -1,0 +1,66 @@
+﻿@model SMMC.Models.Enrolment
+
+@{
+    ViewData["Title"] = "Enrolment Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Enrolment</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Lesson Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LessonName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Firstname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Firstname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Skill)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Skill)
+        </dd>
+
+        <dt>
+            Ensembles Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EnsembleName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Instrument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Instrument)
+        </dd>
+
+        <dt>
+            Enrolment Date
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <a asp-action="EnrolmentView">Back to List</a> 
+    @*<a asp-action="PerformanceUpdate" asp-route-id="@Model.PerformanceID">Update</a> |
+    <a asp-action="PerformanceDelete" asp-route-id="@Model.PerformanceID">Delete</a>*@
+</div>

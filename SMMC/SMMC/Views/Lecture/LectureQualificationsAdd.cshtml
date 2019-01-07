@@ -1,0 +1,40 @@
+﻿@model SMMC.Models.Lecture
+
+@{
+    ViewData["Title"] = "Add Tutors Qualifications";
+}
+<h2>Add</h2>
+<h3>Tutors Qualifications</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LectureQualificationsAdd">
+            <div class="form-group">
+                <label asp-for="Firstname" class="control-label">Tutor</label>
+                @Html.DropDownList("personID", (IEnumerable<SelectListItem>)ViewBag.lectureDRP, new { id = "personID", @class = "form-control" })
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="instrument" class="control-label">Instrument</label>
+                @Html.DropDownList("instrumentID", (IEnumerable<SelectListItem>)ViewBag.instrumentDRP, new { id = "instrumentID", @class = "form-control" })
+                <span asp-validation-for="instrument" class="text-danger"></span>
+            </div>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="qualificationType" class="control-label">Name Of Qualification</label>
+                <input asp-for="qualificationType" class="form-control" />
+                <span asp-validation-for="qualificationType" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Add Qualification" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="LectureQualificationView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

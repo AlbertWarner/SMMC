@@ -1,0 +1,30 @@
+﻿@model SMMC.Models.Instrument
+
+@{
+    ViewData["Title"] = "Instrument Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Instrument</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <a asp-action="InstrumentView">Back to List</a> |
+    <a asp-action="InstrumentUpdate" asp-route-id="@Model.ID">Update</a> |
+    <a asp-action="InstrumentDelete" asp-route-id="@Model.ID">Delete</a>
+</div>

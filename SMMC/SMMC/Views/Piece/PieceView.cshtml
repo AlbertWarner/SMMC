@@ -1,0 +1,67 @@
+﻿@model IEnumerable<SMMC.Models.Piece>
+
+@{
+    ViewData["Title"] = "View Piece";
+}
+<h2>Piece</h2>
+<hr />
+<p>
+    <a asp-action="PieceAdd"><input type="submit" value="Add New Piece" class="btn btn-primary" /></a>
+</p>
+<br />
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                Piece Type
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Part)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.License)
+            </th>
+            <th>
+                Total Copies
+                @*@Html.DisplayNameFor(model => model.TotalCopies)*@
+            </th>
+            <th>
+                Distributed Copies
+                @*@Html.DisplayNameFor(model => model.DistributedCopies)*@
+            </th>
+            <th>
+                Returned Copies
+                @*@Html.DisplayNameFor(model => model.ReturnedCopies)*@
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Part)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.License)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalCopies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DistributedCopies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReturnedCopies)
+            </td>
+            <td>
+                <a asp-action="PieceDetails" asp-route-id="@item.PieceID">Details</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

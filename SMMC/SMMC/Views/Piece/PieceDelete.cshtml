@@ -1,0 +1,67 @@
+﻿@model SMMC.Models.Piece
+
+@{
+    ViewData["Title"] = "Piece Delete";
+}
+<h2>Delete</h2>
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Piece</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Piece ID
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PieceID)
+        </dd>
+
+        <dt>
+            Piece Type
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+        <dt>
+            Part(s)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Part)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.License)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.License)
+        </dd>
+
+        <dt>
+            Total Copies
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TotalCopies)
+        </dd>
+
+        <dt>
+            Distributed Copies
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DistributedCopies)
+        </dd>
+
+        <dt>
+            Returned Copies
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ReturnedCopies)
+        </dd>
+    </dl>
+
+    <form asp-action="PieceDelete">
+        <input type="hidden" asp-for="PieceID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="PieceDeleteView">Back to Piece Delete List</a>
+    </form>
+</div>

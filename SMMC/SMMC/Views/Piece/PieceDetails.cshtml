@@ -1,0 +1,69 @@
+﻿@model SMMC.Models.Piece
+
+@{
+    ViewData["Title"] = "Piece Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Piece</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Piece ID
+            @*@Html.DisplayNameFor(model => model.PieceID)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PieceID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+
+        <dt>
+            Part(s)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Part)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.License)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.License)
+        </dd>
+
+        <dt>
+            Total Copies
+            @*@Html.DisplayNameFor(model => model.TotalCopies)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TotalCopies)
+        </dd>
+
+        <dt>
+            Distributed Copies
+            @*@Html.DisplayNameFor(model => model.DistributedCopies)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DistributedCopies)
+        </dd>
+
+        <dt>
+            Returned Copies
+            @*@Html.DisplayNameFor(model => model.ReturnedCopies)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ReturnedCopies)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="PieceView">Back to List</a> |
+    <a asp-action="PieceUpdate" asp-route-id="@Model.PieceID">Update</a> |
+    <a asp-action="PieceDelete" asp-route-id="@Model.PieceID">Delete</a>
+</div>

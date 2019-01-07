@@ -1,0 +1,30 @@
+﻿@model SMMC.Models.Ensembles
+
+@{
+    ViewData["Title"] = "Ensembles Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Ensembles</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.EnsembleID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EnsembleID)
+        </dd>
+        <dt>
+            Ensemble Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.EnsembleName)
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <a asp-action="EnsemblesView">Back to List</a> |
+    <a asp-action="EnsemblesUpdate" asp-route-id="@Model.EnsembleID">Update</a> |
+    <a asp-action="EnsemblesDelete" asp-route-id="@Model.EnsembleID">Delete</a>
+</div>

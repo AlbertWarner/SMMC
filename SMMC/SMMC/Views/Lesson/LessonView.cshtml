@@ -1,0 +1,67 @@
+﻿@model IEnumerable<SMMC.Models.Lesson>
+
+@{
+    ViewData["Title"] = "View Lesson";
+}
+<h2>Lesson</h2>
+<hr />
+
+<p>
+    <a asp-action="LessonAdd" class="btn btn-primary">Add New Lesson</a>
+</p>
+
+<br />
+
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                Lesson Name
+            </th>
+            <th>
+                Instrument
+            </th>
+            <th>
+                Size
+                @*@Html.DisplayNameFor(model => model.skill)*@
+            </th>
+            <th>
+                Start Time
+                @*@Html.DisplayNameFor(model => model.role)*@
+            </th>
+            <th>
+                Date
+            </th>
+            <th>
+                
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.LessonName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Instrument)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Size)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Time)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Date)
+                </td>          
+                <td>
+                    <a asp-action="LessonDetails" asp-route-id="@item.LessonID">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

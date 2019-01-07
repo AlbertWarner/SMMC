@@ -1,0 +1,67 @@
+﻿@model SMMC.Models.Instrument
+
+@{
+    ViewData["Title"] = "Instrument Hire Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Instrument</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Hire ID
+            @*@Html.DisplayNameFor(model => model.ID)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ID)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Firstname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Firstname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Surname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Surname)
+        </dd>
+        <dt>
+            Instrument Name
+            @*@Html.DisplayNameFor(model => model.Name)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt>
+            Hire Date
+            @*@Html.DisplayNameFor(model => model.HireDate)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HireDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Fee) ($)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Fee)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Repair)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Repair)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Returned)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Returned)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="InstrumentHireUpdate" asp-route-id="@Model.ID">Update Hire Status</a> |
+    <a asp-action="InstrumentHire">Back to List</a>
+</div>

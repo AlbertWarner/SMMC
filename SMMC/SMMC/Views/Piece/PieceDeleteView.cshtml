@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SMMC.Models.Piece>
+
+@{
+    ViewData["Title"] = "Delete Piece";
+}
+<h2>Piece</h2>
+<hr />
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                Piece Type
+            </th>
+            <th>
+                Part(s)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.License)
+            </th>
+            <th>
+                Total Copies
+            </th>
+            <th>
+                Distributed Copies
+            </th>
+            <th>
+                Returned Copies
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Type)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Part)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.License)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalCopies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DistributedCopies)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ReturnedCopies)
+            </td>
+            <td>
+                <a asp-action="PieceDelete" asp-route-id="@item.PieceID">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

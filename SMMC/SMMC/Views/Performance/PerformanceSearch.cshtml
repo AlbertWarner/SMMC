@@ -1,0 +1,79 @@
+﻿@model IEnumerable<SMMC.Models.Performance>
+
+@{
+    ViewData["Title"] = "Students' Performance Details";
+}
+<h2>Students' Performances</h2>
+<hr />
+
+@using (Html.BeginForm())
+{
+    <p>
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" class="btn btn-info" />
+    </p>
+    @*<div class="form-group">
+        Find by name: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" class="btn btn-default" />
+    </div>*@
+}
+
+<hr />
+
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Surname)
+            </th>
+            <th>
+                Ensembles Name
+                @*@Html.DisplayNameFor(model => model.EnsemblesName)*@
+            </th>
+            <th>
+                Performance Title
+            </th>
+            <th>
+                Performance Type
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Venue)
+            </th>
+            <th>
+                Performance Date
+                @*@Html.DisplayNameFor(model => model.PerformanceDate)*@
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Firstname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnsemblesName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PerformanceTitle)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PerformanceType)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Venue)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PerformanceDate)
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

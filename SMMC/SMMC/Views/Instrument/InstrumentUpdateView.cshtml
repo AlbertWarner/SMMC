@@ -1,0 +1,30 @@
+﻿@model IEnumerable<SMMC.Models.Instrument>
+
+@{
+    ViewData["Title"] = "Update Instruments";
+}
+<h2>Instruments</h2>
+<hr />
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <a asp-action="InstrumentUpdate" asp-route-id="@item.ID">Update</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

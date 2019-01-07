@@ -1,0 +1,77 @@
+﻿@model IEnumerable<SMMC.Models.Enrolment>
+
+@{
+    ViewData["Title"] = "View Enrolments";
+}
+<h2>Enrolments</h2>
+<hr />
+
+<p>
+    <a asp-action="EnrolmentAdd" class="btn btn-primary">Add New Enrolment</a>
+</p>
+
+<br />
+
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                Lesson Name
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Surname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Skill)
+            </th>
+            <th>
+                Ensembles
+                @*@Html.DisplayNameFor(model => model.role)*@
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Instrument)
+            </th>
+            <th>
+                Enrolment Date
+            </th>
+            <th>
+
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LessonName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Firstname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Surname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Skill)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EnsembleName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Instrument)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                <a asp-action="EnrolmentDetails" asp-route-id="@item.EnrolmentID">Details</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+

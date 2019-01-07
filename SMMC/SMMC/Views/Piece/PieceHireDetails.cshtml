@@ -1,0 +1,68 @@
+﻿@model SMMC.Models.Piece
+
+@{
+    ViewData["Title"] = "Piece Hire Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Piece</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Piece Hire ID
+            @*@Html.DisplayNameFor(model => model.ID)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PieceHireID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PerformanceID)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.PerformanceID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Part)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Part)
+        </dd>
+
+        <dt>
+            Total Copies
+            @*@Html.DisplayNameFor(model => model.TotalCopies)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.TotalCopies)
+        </dd>
+
+        <dt>
+            Distributed Copies
+            @*@Html.DisplayNameFor(model => model.DistributedCopies)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.DistributedCopies)
+        </dd>
+
+        <dt>
+            Returned Copies
+            @*@Html.DisplayNameFor(model => model.ReturnedCopies)*@
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.ReturnedCopies)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Returned)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Returned)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="PieceHireUpdate" asp-route-id="@Model.PieceHireID">Update Hire Status</a> |
+    <a asp-action="PieceHire">Back to Piece Hire List</a>
+</div>

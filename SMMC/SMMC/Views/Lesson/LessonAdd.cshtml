@@ -1,0 +1,74 @@
+﻿@model SMMC.Models.Lesson
+
+@{
+    ViewData["Title"] = "Add Lesson";
+}
+<h2>Add</h2>
+<h3>Lesson</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LessonAdd">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <br />
+            <div class="alert alert-info" role="alert">
+                <strong>Note</strong>: Below is the format for adding Lesson name;<br />
+                [Instrument name] - [Lesson title] - [Level] <br />
+                E.g. Trumpet - Effective Blowing - Level 1
+            </div>
+
+            <div class="form-group">
+                <label asp-for="LessonName" class="control-label">Lesson Name</label>
+                <input asp-for="LessonName" class="form-control" />
+                <span asp-validation-for="LessonName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Instrument" class="control-label">Instrument</label>
+                @Html.DropDownList("instrumentID", (IEnumerable<SelectListItem>)ViewBag.studentCost, new { id = "instrumentID", @class = "form-control" })
+                <span asp-validation-for="Instrument" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Size" class="control-label">Lesson Size</label>
+                <select asp-for="Size" class="form-control">
+                    <option asp-for="size" value="8">8</option>
+                    <option asp-for="size" value="16">16</option>
+                </select>
+                <span asp-validation-for="Size" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Time" class="control-label">Lesson Time</label>
+                <select asp-for="Time" class="form-control">
+                    <option asp-for="time" value="8:00">8:00</option>
+                    <option asp-for="time" value="8:30">8:30</option>
+                    <option asp-for="time" value="9:00">9:00</option>
+                    <option asp-for="time" value="9:30">9:30</option>
+                    <option asp-for="time" value="10:00">10:00</option>
+                    <option asp-for="time" value="10:30">10:30</option>
+                    <option asp-for="time" value="11:00">11:00</option>
+                    <option asp-for="time" value="11:30">11:30</option>
+                    <option asp-for="time" value="12:00">12:00</option>
+                </select>
+                <span asp-validation-for="Time" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Date" class="control-label">Lesson Date</label>
+                <input type="date" asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="LessonView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

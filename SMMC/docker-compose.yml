@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  smmc:
+    image: smmc
+    build:
+      context: .
+      dockerfile: SMMC/Dockerfile

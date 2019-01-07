@@ -1,0 +1,54 @@
+﻿@model SMMC.Models.Instrument
+
+@{
+    ViewData["Title"] = "Hire Instrument";
+}
+<h2>Hire</h2>
+<h4>Instrument</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="InstrumentHireAdd">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="InstrumentID" class="control-label">Instrument</label>
+                @Html.DropDownList("InstrumentID", (IEnumerable<SelectListItem>)ViewBag.instrumentDrp, new { id = "InstrumentID", @class = "form-control" })
+                <span asp-validation-for="InstrumentID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CostID" class="control-label">Cost</label>
+                <input asp-for="CostID" class="form-control" />
+                <span asp-validation-for="CostID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EnrolmentID" class="control-label">Enrolment</label>
+                @Html.DropDownList("EnrolmentID", (IEnumerable<SelectListItem>)ViewBag.enrolmentDrp, new { id = "EnrolmentID", @class = "form-control" })
+                <span asp-validation-for="EnrolmentID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Repair" class="control-label"></label>
+                <input type="checkbox" asp-for="Repair" class="form-control" />
+                <span asp-validation-for="Repair" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Returned" class="control-label"></label>
+                <input type="checkbox" asp-for="Returned" class="form-control" />
+                <span asp-validation-for="Returned" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HireDate" class="control-label">Hire Date</label>
+                <input type="date" asp-for="HireDate" class="form-control" />
+                <span asp-validation-for="HireDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="InstrumentHire">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

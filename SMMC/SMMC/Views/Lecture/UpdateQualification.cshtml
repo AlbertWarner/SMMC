@@ -1,0 +1,31 @@
+﻿@model SMMC.Models.Lecture
+
+@{
+    ViewData["Title"] = "Update Tutors Qualification";
+}
+<h2>Update</h2>
+<h3>Tutor Qualification Information</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateQualification">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="qualificationTypeID" />
+            <div class="form-group">
+                <label asp-for="qualificationType" class="control-label">Phone Number</label>
+                <input asp-for="qualificationType" class="form-control" />
+                <span asp-validation-for="qualificationType" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="UpdateQualificationView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

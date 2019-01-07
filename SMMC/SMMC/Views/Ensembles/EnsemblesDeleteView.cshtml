@@ -1,0 +1,30 @@
+﻿@model IEnumerable<SMMC.Models.Ensembles>
+
+@{
+    ViewData["Title"] = "Delete Ensembles";
+}
+<h2>Ensembles</h2>
+<hr />
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                Ensemble Name
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnsembleName)
+                </td>
+                <td>
+                    <a asp-action="EnsemblesDelete" asp-route-id="@item.EnsembleID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

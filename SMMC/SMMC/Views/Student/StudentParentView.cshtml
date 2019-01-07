@@ -1,0 +1,62 @@
+﻿@model IEnumerable<SMMC.Models.Student>
+
+@{
+    ViewData["Title"] = "View Students";
+}
+<br />
+<h2>Parents' Contact Info</h2>
+<hr />
+<br />
+
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                Student First Name
+            </th>
+            <th>
+                Student Surname
+            </th>
+            <th>
+                Parent First Name
+            </th>
+            <th>
+                Parent Surname
+            </th>
+            <th>
+                Contact Number
+            </th>
+            <th>
+                Email
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Firstname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ParentName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ParentSurname)
+                </td>           
+                <td>
+                    @Html.DisplayFor(modelItem => item.phone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.emailAddress)
+                </td>
+              
+            </tr>
+        }
+    </tbody>
+</table>
+

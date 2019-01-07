@@ -1,0 +1,52 @@
+﻿@model SMMC.Models.Performance
+
+@{
+    ViewData["Title"] = "Add Performance";
+}
+<h2>Add</h2>
+<h4>Performance</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="PerformanceAdd">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="PerformanceType" class="control-label">Performance Type</label>
+                <select asp-for="PerformanceType" class="form-control">
+                    <option asp-for="PerformanceType" value="In-House">In-House</option>
+                    <option asp-for="PerformanceType" value="Major">Major</option>
+                </select>
+                <span asp-validation-for="PerformanceType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PerformanceTitle" class="control-label">Performance Title</label>
+                <input asp-for="PerformanceTitle" class="form-control" />
+                <span asp-validation-for="PerformanceTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EnsemblesID" class="control-label">Ensembles</label>
+                @Html.DropDownList("EnsemblesID", (IEnumerable<SelectListItem>)ViewBag.ensemblesDrp, new { id = "EnsemblesID", @class = "form-control" })
+                <span asp-validation-for="EnsemblesID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Venue" class="control-label"></label>
+                <input asp-for="Venue" class="form-control" />
+                <span asp-validation-for="Venue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PerformanceDate" class="control-label">Performance Date</label>
+                <input asp-for="PerformanceDate" type="date" class="form-control" />
+                <span asp-validation-for="PerformanceDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="PerformanceView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

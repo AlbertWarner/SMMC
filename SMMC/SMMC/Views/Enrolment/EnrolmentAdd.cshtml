@@ -1,0 +1,60 @@
+﻿@model SMMC.Models.Enrolment
+
+@{
+    ViewData["Title"] = "Add Enrolment";
+}
+<h2>Add</h2>
+<h3>Add Enrolment</h3>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="EnrolmentAdd">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+            <div class="form-group">
+                <label asp-for="Firstname" class="control-label">Student</label>
+                @Html.DropDownList("PersonID", (IEnumerable<SelectListItem>)ViewBag.studentCost, new { id = "PersonID", @class = "form-control" })
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="LessonName" class="control-label">Lesson</label>
+                @Html.DropDownList("LessonID", (IEnumerable<SelectListItem>)ViewBag.openCost, new { id = "LessonID", @class = "form-control" })
+                <span asp-validation-for="LessonName" class="text-danger"></span>
+            </div>
+
+            <br />
+                <div class="alert alert-info" role="alert">
+                    <strong>Note</strong>: Below is the guide for adding students to ensembles<br />
+                    Skill level 1 - 3  <strong>--></strong>  Training Orchestra <br />
+                    Skill level 4 - 6  <strong>--></strong>  Junior Sinfonia <br />
+                    Skill level 7 - 8  <strong>--></strong>  Community Orchestra
+                </div>
+            
+            <div class="form-group">
+                <label asp-for="EnsembleName" class="control-label">Ensembles</label>
+                @Html.DropDownList("EnsemblesID", (IEnumerable<SelectListItem>)ViewBag.ensembles, new { id = "EnsemblesID", @class = "form-control" })
+                <span asp-validation-for="EnsembleName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Date" class="control-label">Enrolment Date</label>
+                <input type="date" asp-for="Date" class="form-control" />
+                <span asp-validation-for="Date" class="text-danger"></span>
+            </div>
+
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="EnrolmentView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

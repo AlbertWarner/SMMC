@@ -1,0 +1,61 @@
+﻿@model SMMC.Models.Lesson
+
+@{
+    ViewData["Title"] = "Delete Lesson";
+}
+<h2>Delete</h2>
+<div>
+    <h4>Lesson</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Lesson ID
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LessonID)
+        </dd>
+
+        <dt>
+            Lesson Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LessonName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Instrument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Instrument)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Size)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Size)
+        </dd>
+
+        <dt>
+            Start Time
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+
+        <dt>
+            Lesson Date
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <form asp-action="LessonDelete">
+        <input type="hidden" asp-for="LessonID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="LessonDeleteView">Back to Delete List</a>
+    </form>
+</div>

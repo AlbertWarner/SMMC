@@ -1,0 +1,38 @@
+﻿@model SMMC.Models.Instrument
+
+@{
+    ViewData["Title"] = "Update Instrument Hire Status";
+}
+<h2>Update</h2>
+<h4>Instrument Hire Status</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="InstrumentHireUpdate">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ID" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Repair" class="control-label"></label>
+                <input type="checkbox" asp-for="Repair" class="form-control" />
+                <span asp-validation-for="Repair" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Returned" class="control-label"></label>
+                <input type="checkbox" asp-for="Returned" class="form-control" />
+                <span asp-validation-for="Returned" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="InstrumentHire">Back to Instrument Hire List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

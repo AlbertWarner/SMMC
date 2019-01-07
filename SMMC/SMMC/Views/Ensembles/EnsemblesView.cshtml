@@ -1,0 +1,43 @@
+﻿@model IEnumerable<SMMC.Models.Ensembles>
+
+@{
+    ViewData["Title"] = "View Ensembles";
+}
+<h2>Ensembles</h2>
+<hr />
+
+<p>
+    <a asp-action="EnsemblesAdd" class="btn btn-primary">Add New Ensemble</a>
+</p>
+
+<br />
+
+<table class="table table-striped table-bordered dt-responsive nowrap">
+    <thead>
+        <tr>
+            <th>
+                Ensemble Name
+            </th>
+            <th></th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.EnsembleName)
+                </td>             
+                <td>
+                    <a asp-action="EnsemblesDetails" asp-route-id="@item.EnsembleID">Details</a> |
+                    <a asp-action="EnsemblesUpdate" asp-route-id="@item.EnsembleID">Update</a> |
+                    <a asp-action="EnsemblesDelete" asp-route-id="@item.EnsembleID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+

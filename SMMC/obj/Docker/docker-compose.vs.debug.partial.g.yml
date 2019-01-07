@@ -1,0 +1,18 @@
+version: '3'
+
+services:
+  smmc:
+    image: smmc:dev
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_smmc$
+    volumes:
+      - H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC:/app
+      - C:\Users\olusoe1\vsdbg\vs2017u5:/remote_debugger:ro
+#$nuget_volume_mapping_smmc$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_smmc$ bin/Debug/netcoreapp2.1/SMMC.dll"
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/bash -c \"if PID=$$(pidof -x dotnet); then kill $$PID; fi\""

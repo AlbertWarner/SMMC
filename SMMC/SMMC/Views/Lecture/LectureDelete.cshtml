@@ -1,0 +1,53 @@
+﻿@model SMMC.Models.Lecture
+
+@{
+    ViewData["Title"] = "Delete Tutor";
+}
+<h2>Delete</h2>
+<div>
+    <h4>Tutor</h4>
+    <hr />
+    <div class="row">
+        <div class="alert alert-danger col-md-5" role="alert">
+            <strong>Note:</strong> This will delete the Tutor and all their details <br />
+            Including Roster and Contact.
+        </div>
+    </div>
+        <dl class="dl-horizontal">
+            <dt>
+                Person ID
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.personID)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Firstname)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Firstname)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.Surname)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Surname)
+            </dd>
+            <dt>
+                Skill
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.skill)
+            </dd>
+        </dl>
+    </div>
+    <div>
+
+        @*<a class="btn btn-primary" asp-action="LectureDelete" asp-route-id="@Model.personID">Delete</a> |
+            <a asp-action="LectureDeleteView">Back to Lecture List</a>*@
+
+        <form asp-action="DeleteLecture">
+            <input type="hidden" asp-for="personID" />
+            <input type="submit" value="Delete" class="btn btn-danger" /> |
+            <a asp-action="LectureDeleteView">Back to List</a>
+        </form>
+    </div>

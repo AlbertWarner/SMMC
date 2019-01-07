@@ -1,0 +1,596 @@
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojResolveAssemblyReference.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojResolveAssemblyReference.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojResolveAssemblyReference.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHire.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Assignment 2\Git\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHire.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentParentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceHireDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationsAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHire.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHire.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceSearch.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonStudent.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContact.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContactView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualification.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualificationView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHire.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationsAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContact.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContactView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualification.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualificationView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonStudent.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceSearch.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHire.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHire.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceHireDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentAdd.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDelete.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDeleteView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentParentView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdate.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdateView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentView.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+H:\Year 3\Semester 2\DB 3\SMMC\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\Assignment 2 - ASP.net\smmc\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHire.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationsAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContact.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContactView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualification.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualificationView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonStudent.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceSearch.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHire.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHire.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceHireDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentAdd.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDelete.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDeleteView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentParentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdate.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdateView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentView.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+H:\BitY3\Semester 2\DB3\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.deps.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.runtimeconfig.dev.json
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\bin\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csprojAssemblyReference.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorAssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfoInputs.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.AssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.input.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.TagHelpers.output.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorCoreGenerate.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Enrolment\EnrolmentView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Ensembles\EnsemblesView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHire.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentHireUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Instrument\InstrumentView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationsAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureQualificationView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\LectureView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContact.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateContactView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualification.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lecture\UpdateQualificationView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonStudent.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Lesson\LessonView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceSearch.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Performance\PerformanceView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHire.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\EnrolmentPieceHireUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHire.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PerformancePieceHireUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceHireDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Piece\PieceView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Roster\RosterView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ContactUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\ParentUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\SchoolUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentAdd.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDelete.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDeleteView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentDetails.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentParentView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdate.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentUpdateView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\Student\StudentView.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cache
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.RazorTargetAssemblyInfo.cs
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.Views.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.dll
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.pdb
+C:\Users\alber\OneDrive\Desktop\Bit Year\Year 3\Semester 2\DB3\Main Git\warnaa1\Assignment2\SMMC\SMMC\obj\Debug\netcoreapp2.1\SMMC.csproj.CopyComplete

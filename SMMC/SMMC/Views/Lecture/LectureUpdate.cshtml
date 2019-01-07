@@ -1,0 +1,58 @@
+﻿@model SMMC.Models.Lecture
+
+@{
+    ViewData["Title"] = "Update Tutor";
+}
+<h2>Update</h2>
+<h3>Tutor Information</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateLecture">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="personID" />
+            <div class="form-group">
+                <label asp-for="Firstname" class="control-label"></label>
+                <input asp-for="Firstname" class="form-control" />
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="skill" class="control-label">Skill Level</label>
+                <select asp-for="skill" class="form-control">
+                    <option asp-for="skill" value="8">8</option>
+                    <option asp-for="skill" value="9">ATCL</option>
+                </select>
+                <span asp-validation-for="skill" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="role" class="control-label">Role</label>
+                <select asp-for="role" class="form-control">
+                    <option asp-for="role" value="Head Tutor">Head Tutor</option>
+                    <option asp-for="role" value="Senior Tutor">Senior Tutor</option>
+                    <option asp-for="role" value="Junior Tutor">Junior Tutor</option>
+                </select>
+                <span asp-validation-for="role" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="salary" class="control-label">Salary ($ /hr)</label>
+                <input asp-for="salary" type="number" step="0.01" class="form-control" />
+                <span asp-validation-for="salary" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="LectureUpdateView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

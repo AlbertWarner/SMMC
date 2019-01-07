@@ -1,0 +1,40 @@
+﻿@model SMMC.Models.Lecture
+
+@{
+    ViewData["Title"] = "Tutors Qualifications Delete";
+}
+<h2>Delete</h2>
+<div>
+    <h4>Tutor's Qualifications</h4>
+    <hr />
+    <div class="row">
+        <div class="alert alert-danger col-md-5" role="alert">
+            <strong>Note:</strong> This will delete the Tutor's Qualifications.<br />
+        </div>
+    </div>
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.qualificationTypeID)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.qualificationTypeID)
+            </dd>
+            <dt>
+                @Html.DisplayNameFor(model => model.qualificationType)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.qualificationType)
+            </dd>
+        </dl>
+    </div>
+<div>
+
+    @*<a class="btn btn-primary" asp-action="LectureDelete" asp-route-id="@Model.personID">Delete</a> |
+        <a asp-action="LectureDeleteView">Back to Lecture List</a>*@
+
+    <form asp-action="DeleteQualification">
+        <input type="hidden" asp-for="qualificationTypeID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="LectureQualificationDeleteView">Back to List</a>
+    </form>
+</div>

@@ -1,0 +1,132 @@
+﻿@model SMMC.Models.Student
+
+@{
+    ViewData["Title"] = "Add Student";
+}
+<h2>Add</h2>
+<h3>Student Information</h3>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="StudentAdd">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Firstname" class="control-label"></label>
+                <input asp-for="Firstname" class="form-control" />
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="skill" class="control-label">Student Skill Level</label>
+                <select asp-for="skill" class="form-control">
+                    <option asp-for="skill" value="0">0</option>
+                    <option asp-for="skill" value="1">1</option>
+                    <option asp-for="skill" value="2">2</option>
+                    <option asp-for="skill" value="3">3</option>
+                    <option asp-for="skill" value="4">4</option>
+                    <option asp-for="skill" value="5">5</option>
+                    <option asp-for="skill" value="6">6</option>
+                    <option asp-for="skill" value="7">7</option>
+                    <option asp-for="skill" value="8">8</option>
+                </select>
+                <span asp-validation-for="skill" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="role" class="control-label">Role</label>
+                <select asp-for="role" class="form-control">
+                    <option asp-for="role" value="Student">Student</option>
+                    <option asp-for="role" value="Open">Open</option>
+                </select>
+                <span asp-validation-for="role" class="text-danger"></span>
+            </div>
+
+            <br />
+
+            <h3>Contact Details of a Parent/Open</h3>
+            <hr />
+            <div class="form-group">
+                <label asp-for="phone" class="control-label">Phone Number</label>
+                <input asp-for="phone" class="form-control" />
+                <span asp-validation-for="phone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="emailAddress" class="control-label">Email Address</label>
+                <input asp-for="emailAddress" class="form-control" />
+                <span asp-validation-for="emailAddress" class="text-danger"></span>
+            </div>
+
+            <br />
+
+            <h3>School Information</h3>
+            <hr />
+            <div class="form-group">
+                <label asp-for="enrolled" class="control-label">Enrolled In A School?</label>
+                <input asp-for="enrolled" class="form-control" />
+                <span asp-validation-for="enrolled" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="schoolName" class="control-label">School Name</label>
+                <input asp-for="schoolName" class="form-control" />
+                <span asp-validation-for="schoolName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="instrumentName" class="control-label">Student Instrument Cost</label>
+                @Html.DropDownList("costID", (IEnumerable<SelectListItem>)ViewBag.studentCost, new { id = "costID", @class = "form-control" })
+                <span asp-validation-for="instrumentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="instrumentName" class="control-label">Open Instrument Cost</label>
+                @Html.DropDownList("costOpenID", (IEnumerable<SelectListItem>)ViewBag.openCost, new { id = "costOpenID", @class = "form-control" })
+                <span asp-validation-for="instrumentName" class="text-danger"></span>
+            </div>
+
+            <br />
+
+            <h3>Parents Information</h3>
+            <hr />
+            <div class="alert alert-info" role="alert">
+                If the person is enrolled in a school, please complete parents information.<br />
+                Don't need if person is enrolled as 'Open'.
+            </div>
+
+            <div class="form-group">
+                <label asp-for="ParentName" class="control-label">Parent First Name</label>
+                <input asp-for="ParentName" class="form-control" />
+                <span asp-validation-for="ParentName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ParentSurname" class="control-label">Parent Surname</label>
+                <input asp-for="ParentSurname" class="form-control" />
+                <span asp-validation-for="ParentSurname" class="text-danger"></span>
+            </div>
+            @*<div class="form-group">
+            <input type="hidden" asp-for="skill" class="form-control" value="0" />
+        </div>*@
+            <div class="form-group">
+                <label asp-for="ParentRole" class="control-label">Parent's Role</label>
+                <select asp-for="ParentRole" class="form-control">
+                    <option asp-for="ParentRole" value="Not">Not Needed</option>
+                    <option asp-for="ParentRole" value="Parent">Parent</option>
+                    <option asp-for="ParentRole" value="Gaurdian">Gaurdian</option>
+                </select>
+                <span asp-validation-for="ParentRole" class="text-danger"></span>
+            </div>
+
+            <br />
+
+            <div class="form-group">
+                <input type="submit" value="Add" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="StudentView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

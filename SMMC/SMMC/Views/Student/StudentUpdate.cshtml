@@ -1,0 +1,58 @@
+﻿@model SMMC.Models.Student
+
+@{
+    ViewData["Title"] = "Update Student Info";
+}
+<h2>Update</h2>
+<h4>Student</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="UpdateStudent">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="personID" />
+            <div class="form-group">
+                <label asp-for="Firstname" class="control-label"></label>
+                <input asp-for="Firstname" class="form-control" />
+                <span asp-validation-for="Firstname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label"></label>
+                <input asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="skill" class="control-label">Student Skill Level</label>
+                <select asp-for="skill" class="form-control">
+                    <option asp-for="skill" value="0">0</option>
+                    <option asp-for="skill" value="1">1</option>
+                    <option asp-for="skill" value="2">2</option>
+                    <option asp-for="skill" value="3">3</option>
+                    <option asp-for="skill" value="4">4</option>
+                    <option asp-for="skill" value="5">5</option>
+                    <option asp-for="skill" value="6">6</option>
+                    <option asp-for="skill" value="7">7</option>
+                    <option asp-for="skill" value="8">8</option>
+                </select>
+                <span asp-validation-for="skill" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="role" class="control-label">Role</label>
+                <select asp-for="role" class="form-control">
+                    <option asp-for="role" value="Student">Student</option>
+                    <option asp-for="role" value="Open">Open</option>
+                </select>
+                <span asp-validation-for="role" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-action="StudentUpdateView">Back to List</a>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

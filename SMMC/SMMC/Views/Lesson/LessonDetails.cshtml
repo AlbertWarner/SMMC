@@ -1,0 +1,59 @@
+﻿@model SMMC.Models.Lesson
+
+@{
+    ViewData["Title"] = "Lesson Details";
+}
+<h2>Details</h2>
+<div>
+    <h4>Lesson</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Lesson ID
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LessonID)
+        </dd>
+
+        <dt>
+            Lesson Name
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.LessonName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Instrument)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Instrument)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Size)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Size)
+        </dd>
+
+        <dt>
+            Start Time
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Time)
+        </dd>
+
+        <dt>
+            Lesson Date
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+    </dl>
+</div>
+<div>
+
+    <a asp-action="LessonView">Back to List</a> |
+    <a asp-action="LessonUpdate" asp-route-id="@Model.LessonID">Update</a> |
+    <a asp-action="LessonDelete" asp-route-id="@Model.LessonID">Delete</a>
+</div>
